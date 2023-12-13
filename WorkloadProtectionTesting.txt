@@ -1,0 +1,4 @@
+"AadClientId": "24dcd549-9a42-4042-a4e9-f053bd9958e1",
+  "AadSecret": "MoL8Q~hjEBss8WgUbevNDuBzmt8LFkz98vmp6b3q",
+  "AadTenantDomain": "BTGroupCloud.onmicrosoft.com",
+  "AadTenantId": "a7f35688-9c00-4d5e-ba41-29f146377ab0",

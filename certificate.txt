@@ -1,0 +1,4 @@
+
+"AadClientId": "e400454f-939a-40e5-b1fc-666870444ae6",
+  "AadTenantDomain": "snst1.onmicrosoft.com",
+  "AadTenantId": "83986a86-25a8-4c48-a44c-02063c86f3e3",
